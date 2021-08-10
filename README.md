@@ -1,2 +1,2 @@
-# userpart
- user part of app
+# rezervesepeti
+ Mobile App for Reservation
